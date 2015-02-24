@@ -39,7 +39,7 @@ Participe! Comente ali em baixo, ajude o ZOFE agitando com a gente. Digam o que 
 [0:16:05](#t=0:16:05) [jspm](http://jspm.io)<br>
 [0:17:05](#t=0:17:05) [Package Management for ES6 Moudles (video)](https://www.youtube.com/watch?v=szJjsduHBQQ) <sup>(por [Guy Bedford](https://twitter.com/guybedford))</sup><br>
 [0:19:03](#t=0:19:03) [Lucas Mazza](https://twitter.com/lucasmazza)<br>
-[0:20:11](#t=0:20:11) [Snippets .htacces úteis](https://github.com/phanan/htaccess)<br>
+[0:20:11](#t=0:20:11) [Snippets .htaccess úteis](https://github.com/phanan/htaccess)<br>
 [0:21:50](#t=0:21:50) [Underscore.js 1.8.2](http://underscorejs.org)<br>
 [0:22:02](#t=0:22:02) [Jeremy Ashkenas](https://twitter.com/jashkenas)<br>
 [0:22:35](#t=0:22:35) [Testes do Underscore.js falhando na versão 1.8.0](https://github.com/jashkenas/underscore/issues/2062)<br>
